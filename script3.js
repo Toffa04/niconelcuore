@@ -1,8 +1,8 @@
 // Dati di esempio delle squadre
 const squadre = [
     { posizione: 1, nome: "Betis Siviglia", punti: 3},
-    { posizione: 4, nome: "Chelsea", punti: 0 },
-    { posizione: 3, nome: "Milan", punti: 0 },
+    { posizione: 3, nome: "Chelsea", punti: 0 },
+    { posizione: 4, nome: "Milan", punti: 0 },
     { posizione: 2, nome: "Hellas Verona", punti: 3},
     { posizione: 5, nome: "Juventus", punti: 0},
     { posizione: 6, nome: "Brescia", punti: 0},
