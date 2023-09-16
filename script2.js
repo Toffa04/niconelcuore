@@ -5,7 +5,7 @@ const squadre2 = [
     { posizione: 3, nome: "Inter", punti: 0 },
     { posizione: 4, nome: "Atletico Madrid", punti: 0},
     { posizione: 5, nome: "Atalanta", punti: 0},
-    { posizione: 6, nome: "Virtus Verona", punti: 0},
+    { posizione: 6, nome: "Virtus Verona", punti: 3},
     { posizione: 7, nome: "Benfica", punti: 0}
     // Aggiungi più squadre secondo necessità
 ];
