@@ -4,7 +4,7 @@ const squadre = [
     { posizione: 2, nome: "Chelsea", punti: 6 },
     { posizione: 4, nome: "Milan", punti: 6 },
     { posizione: 3, nome: "Hellas Verona", punti: 3},
-    { posizione: 5, nome: "Juventus", punti: 0},
+    { posizione: 5, nome: "Juventus", punti: 3},
     { posizione: 6, nome: "Brescia", punti: 0},
     { posizione: 7, nome: "Montorio", punti: 0}
     // Aggiungi più squadre secondo necessità
